@@ -6,7 +6,13 @@
     "price": 10908,
     "asset_path": "assets/helmet_shield/helmet_shield_001.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_002",
@@ -15,7 +21,13 @@
     "price": 19008,
     "asset_path": "assets/helmet_shield/helmet_shield_002.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_003",
@@ -24,7 +36,13 @@
     "price": 24300,
     "asset_path": "assets/helmet_shield/helmet_shield_003.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_004",
@@ -33,7 +51,13 @@
     "price": 22946,
     "asset_path": "assets/helmet_shield/helmet_shield_004.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_005",
@@ -42,7 +66,13 @@
     "price": 43287,
     "asset_path": "assets/helmet_shield/helmet_shield_005.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_006",
@@ -51,7 +81,13 @@
     "price": 12669,
     "asset_path": "assets/helmet_shield/helmet_shield_006.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_007",
@@ -60,7 +96,13 @@
     "price": 30240,
     "asset_path": "assets/helmet_shield/helmet_shield_007.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_008",
@@ -69,7 +111,13 @@
     "price": 82246,
     "asset_path": "assets/helmet_shield/helmet_shield_008.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_009",
@@ -78,7 +126,13 @@
     "price": 27360,
     "asset_path": "assets/helmet_shield/helmet_shield_009.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_010",
@@ -87,7 +141,13 @@
     "price": 97200,
     "asset_path": "assets/helmet_shield/helmet_shield_010.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_011",
@@ -96,7 +156,13 @@
     "price": 103500,
     "asset_path": "assets/helmet_shield/helmet_shield_011.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "helmet_shield_012",
@@ -105,6 +171,12 @@
     "price": 252984,
     "asset_path": "assets/helmet_shield/helmet_shield_012.png",
     "width_slots": 2,
-    "height_slots": 1
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   }
 ]

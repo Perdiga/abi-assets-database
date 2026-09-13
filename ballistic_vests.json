@@ -3,348 +3,435 @@
     "id": "ballistic_vest_001",
     "type": "ballistic_vest",
     "name": "Peitoral à Prova de Balas Clássico do Engenheiro",
-    "price_koen": 7650,
-    "size": {
-      "width": 3,
-      "height": 4
-    },
-    "image": "ballistic_vest_001.png",
-    "category": "ballistic_vest"
+    "price": 7650,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_001.png",
+    "width_slots": 3,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_002",
     "type": "ballistic_vest",
     "name": "Antigo Colete Balístico",
-    "price_koen": 9025,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_002.png",
-    "category": "ballistic_vest"
+    "price": 9025,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_002.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_003",
     "type": "ballistic_vest",
     "name": "Colete Blindado Clássico",
-    "price_koen": 8736,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_003.png",
-    "category": "ballistic_vest"
+    "price": 8736,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_003.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_004",
     "type": "ballistic_vest",
     "name": "Colete Balístico de Segurança",
-    "price_koen": 13845,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_004.png",
-    "category": "ballistic_vest"
+    "price": 13845,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_004.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_005",
     "type": "ballistic_vest",
     "name": "Colete à Prova de Balas Clássico de Infantaria",
-    "price_koen": 20874,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_005.png",
-    "category": "ballistic_vest"
+    "price": 20874,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_005.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_006",
     "type": "ballistic_vest",
     "name": "Colete Balístico 220",
-    "price_koen": 14400,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_006.png",
-    "category": "ballistic_vest"
+    "price": 14400,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_006.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_007",
     "type": "ballistic_vest",
     "name": "Colete Balístico Leve H-LC",
-    "price_koen": 49852,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_007.png",
-    "category": "ballistic_vest"
+    "price": 49852,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_007.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_008",
     "type": "ballistic_vest",
     "name": "SWAT-Tac",
-    "price_koen": 45684,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_008.png",
-    "category": "ballistic_vest"
+    "price": 45684,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_008.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_009",
     "type": "ballistic_vest",
     "name": "Colete Balístico de Serviço KN",
-    "price_koen": 24336,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_009.png",
-    "category": "ballistic_vest"
+    "price": 24336,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_009.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_010",
     "type": "ballistic_vest",
     "name": "Colete Balístico PCA350",
-    "price_koen": 35904,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_010.png",
-    "category": "ballistic_vest"
+    "price": 35904,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_010.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_011",
     "type": "ballistic_vest",
     "name": "Colete Balístico de Assalto KN",
-    "price_koen": 61722,
-    "size": {
-      "width": 3,
-      "height": 4
-    },
-    "image": "ballistic_vest_011.png",
-    "category": "ballistic_vest"
+    "price": 61722,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_011.png",
+    "width_slots": 3,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_012",
     "type": "ballistic_vest",
     "name": "Blindagem SWAT Padrão",
-    "price_koen": 38808,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_012.png",
-    "category": "ballistic_vest"
+    "price": 38808,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_012.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_013",
     "type": "ballistic_vest",
     "name": "Colete Balístico Fortaleza SEK",
-    "price_koen": 89243,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_013.png",
-    "category": "ballistic_vest"
+    "price": 89243,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_013.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_014",
     "type": "ballistic_vest",
     "name": "Colete Balístico 6B23",
-    "price_koen": 155652,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_014.png",
-    "category": "ballistic_vest"
+    "price": 155652,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_014.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_015",
     "type": "ballistic_vest",
     "name": "Colete Balístico 6B13",
-    "price_koen": 84564,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_015.png",
-    "category": "ballistic_vest"
+    "price": 84564,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_015.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_016",
     "type": "ballistic_vest",
     "name": "Colete Balístico IND401",
-    "price_koen": 70950,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_016.png",
-    "category": "ballistic_vest"
+    "price": 70950,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_016.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_017",
     "type": "ballistic_vest",
     "name": "Colete Balístico Spartan B",
-    "price_koen": 124740,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_017.png",
-    "category": "ballistic_vest"
+    "price": 124740,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_017.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_018",
     "type": "ballistic_vest",
     "name": "Colete Balístico Composto 926",
-    "price_koen": 284026,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_018.png",
-    "category": "ballistic_vest"
+    "price": 284026,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_018.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_019",
     "type": "ballistic_vest",
     "name": "Colete Balístico Tático H-LC",
-    "price_koen": 301803,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_019.png",
-    "category": "ballistic_vest"
+    "price": 301803,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_019.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_020",
     "type": "ballistic_vest",
     "name": "Colete Balístico Pesado Defender M4",
-    "price_koen": 295812,
-    "size": {
-      "width": 3,
-      "height": 4
-    },
-    "image": "ballistic_vest_020.png",
-    "category": "ballistic_vest"
+    "price": 295812,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_020.png",
+    "width_slots": 3,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_021",
     "type": "ballistic_vest",
     "name": "Colete Balístico Pesado Defender M4 (Visual de Oficial)",
-    "price_koen": 297513,
-    "size": {
-      "width": 3,
-      "height": 4
-    },
-    "image": "ballistic_vest_021.png",
-    "category": "ballistic_vest"
+    "price": 297513,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_021.png",
+    "width_slots": 3,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_022",
     "type": "ballistic_vest",
     "name": "Colete Balístico Ofensivo Samurai IMTV",
-    "price_koen": 361170,
-    "size": {
-      "width": 4,
-      "height": 3
-    },
-    "image": "ballistic_vest_022.png",
-    "category": "ballistic_vest"
+    "price": 361170,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_022.png",
+    "width_slots": 4,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_023",
     "type": "ballistic_vest",
     "name": "Colete Balístico Padrão Samurai IMTV",
-    "price_koen": 347760,
-    "size": {
-      "width": 3,
-      "height": 4
-    },
-    "image": "ballistic_vest_023.png",
-    "category": "ballistic_vest"
+    "price": 347760,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_023.png",
+    "width_slots": 3,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_024",
     "type": "ballistic_vest",
     "name": "Colete Balístico Proteção Total Samurai IMTV",
-    "price_koen": 320436,
-    "size": {
-      "width": 4,
-      "height": 4
-    },
-    "image": "ballistic_vest_024.png",
-    "category": "ballistic_vest"
+    "price": 320436,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_024.png",
+    "width_slots": 4,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_025",
     "type": "ballistic_vest",
     "name": "Colete Balístico Pesado BT6",
-    "price_koen": 576720,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_025.png",
-    "category": "ballistic_vest"
+    "price": 576720,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_025.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_026",
     "type": "ballistic_vest",
     "name": "Colete Balístico Tático BT101",
-    "price_koen": 1170796,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_026.png",
-    "category": "ballistic_vest"
+    "price": 1170796,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_026.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_027",
     "type": "ballistic_vest",
     "name": "Colete Balístico Pesado 6B45",
-    "price_koen": 1014594,
-    "size": {
-      "width": 4,
-      "height": 4
-    },
-    "image": "ballistic_vest_027.png",
-    "category": "ballistic_vest"
+    "price": 1014594,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_027.png",
+    "width_slots": 4,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_028",
     "type": "ballistic_vest",
     "name": "Colete Balístico Pesado do Xerife",
-    "price_koen": 987000,
-    "size": {
-      "width": 4,
-      "height": 4
-    },
-    "image": "ballistic_vest_028.png",
-    "category": "ballistic_vest"
+    "price": 987000,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_028.png",
+    "width_slots": 4,
+    "height_slots": 4,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "ballistic_vest_029",
     "type": "ballistic_vest",
     "name": "Colete Balístico Composto KN",
-    "price_koen": 1501170,
-    "size": {
-      "width": 3,
-      "height": 3
-    },
-    "image": "ballistic_vest_029.png",
-    "category": "ballistic_vest"
+    "price": 1501170,
+    "asset_path": "assets/ballistic_vest/ballistic_vest_029.png",
+    "width_slots": 3,
+    "height_slots": 3,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   }
 ]
