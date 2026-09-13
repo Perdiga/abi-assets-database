@@ -3,98 +3,30 @@
     "id": "chest_rig_001",
     "type": "chest_rig",
     "name": "Colete Peitoral de Infantaria BH",
-    "closed_size": {
-      "width": 1,
-      "height": 3
-    },
-    "open_size": {
-      "width": 3,
-      "height": 3
-    },
-    "internal_storage": {
-      "grid_width": 4,
-      "grid_height": 2,
-      "layout": [
-        [
-          null,
-          1,
-          1,
-          null
-        ],
-        [
-          1,
-          1,
-          1,
-          1
-        ]
-      ],
-      "slot_count": 6,
-      "compartments": [
-        {
-          "id": 1,
-          "width": 3,
-          "height": 2,
-          "slot_count": 6
-        }
-      ]
-    }
+    "price": null,
+    "asset_path": "assets/chest_rig/chest_rig_001.png",
+    "width_slots": 1,
+    "height_slots": 3,
+    "width_slots_open": 3,
+    "height_slots_open": 3,
+    "slots": "[[null,1,1,null],[1,1,1,1]]",
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "chest_rig_002",
     "type": "chest_rig",
     "name": "Colete de Caça",
-    "closed_size": {
-      "width": 1,
-      "height": 3
-    },
-    "open_size": {
-      "width": 2,
-      "height": 3
-    },
-    "internal_storage": {
-      "grid_width": 2,
-      "grid_height": 3,
-      "layout": [
-        [
-          1,
-          2
-        ],
-        [
-          3,
-          4
-        ],
-        [
-          3,
-          4
-        ]
-      ],
-      "slot_count": 6,
-      "compartments": [
-        {
-          "id": 1,
-          "width": 1,
-          "height": 1,
-          "slot_count": 1
-        },
-        {
-          "id": 2,
-          "width": 1,
-          "height": 1,
-          "slot_count": 1
-        },
-        {
-          "id": 3,
-          "width": 1,
-          "height": 2,
-          "slot_count": 2
-        },
-        {
-          "id": 4,
-          "width": 1,
-          "height": 2,
-          "slot_count": 2
-        }
-      ]
-    }
+    "price": null,
+    "asset_path": "assets/chest_rig/chest_rig_002.png",
+    "width_slots": 1,
+    "height_slots": 3,
+    "width_slots_open": 2,
+    "height_slots_open": 3,
+    "slots": "[[1,2],[3,4],[3,4]]",
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   }
 ]

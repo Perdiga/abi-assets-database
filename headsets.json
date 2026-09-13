@@ -1,37 +1,77 @@
 [
   {
     "id": "headset_001",
+    "type": "headset",
     "name": "Fone de Ouvido Tático",
-    "price_koen": 4600,
-    "image": "headset_001.png",
-    "category": "headset"
+    "price": 4600,
+    "asset_path": "assets/headset/headset_001.png",
+    "width_slots": null,
+    "height_slots": null,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "headset_002",
+    "type": "headset",
     "name": "Fone de Ouvido Tático",
-    "price_koen": 21038,
-    "image": "headset_002.png",
-    "category": "headset"
+    "price": 21038,
+    "asset_path": "assets/headset/headset_002.png",
+    "width_slots": null,
+    "height_slots": null,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "headset_003",
+    "type": "headset",
     "name": "Fone de Ouvido Tático",
-    "price_koen": 39783,
-    "image": "headset_003.png",
-    "category": "headset"
+    "price": 39783,
+    "asset_path": "assets/headset/headset_003.png",
+    "width_slots": null,
+    "height_slots": null,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "headset_004",
+    "type": "headset",
     "name": "Fone de Ouvido Tático",
-    "price_koen": 51992,
-    "image": "headset_004.png",
-    "category": "headset"
+    "price": 51992,
+    "asset_path": "assets/headset/headset_004.png",
+    "width_slots": null,
+    "height_slots": null,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   },
   {
     "id": "headset_005",
+    "type": "headset",
     "name": "Auricular Tático GS2",
-    "price_koen": 76800,
-    "image": "headset_005.png",
-    "category": "headset"
+    "price": 76800,
+    "asset_path": "assets/headset/headset_005.png",
+    "width_slots": null,
+    "height_slots": null,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   }
 ]
