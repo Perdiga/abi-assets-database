@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mask_001",
+    "type": "mask",
+    "name": "Máscara de Gás SH-3",
+    "price_koen": 21060,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_001.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_002",
+    "type": "mask",
+    "name": "Meia-máscara RA120",
+    "price_koen": 27056,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_002.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_003",
+    "type": "mask",
+    "name": "Máscara de Gás Completa RAL",
+    "price_koen": 36800,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_003.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_004",
+    "type": "mask",
+    "name": "Máscara de Gás Universal RAL10",
+    "price_koen": 34875,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_004.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_005",
+    "type": "mask",
+    "name": "Máscara de Gás SH-4",
+    "price_koen": 40257,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_005.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_006",
+    "type": "mask",
+    "name": "Máscara de Gás Óculos RAL",
+    "price_koen": 40425,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_006.png",
+    "category": "mask"
+  },
+  {
+    "id": "mask_007",
+    "type": "mask",
+    "name": "Máscara de Gás Avançada RAL40",
+    "price_koen": 71100,
+    "size": {
+      "width": 2,
+      "height": 2
+    },
+    "image": "mask_007.png",
+    "category": "mask"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "injection_001",
+    "name": "Injeção Intramuscular",
+    "price_koen": 7500,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_001.png",
+    "category": "injection"
+  },
+  {
+    "id": "injection_002",
+    "name": "Injeção de Resistência",
+    "price_koen": 14385,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_002.png",
+    "category": "injection"
+  },
+  {
+    "id": "injection_003",
+    "name": "Injeção Regenerativa",
+    "price_koen": 29200,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_003.png",
+    "category": "injection"
+  },
+  {
+    "id": "injection_004",
+    "name": "Reforço Intramuscular",
+    "price_koen": 27090,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_004.png",
+    "category": "injection"
+  },
+  {
+    "id": "injection_005",
+    "name": "Reforço de Resistência",
+    "price_koen": 52500,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_005.png",
+    "category": "injection"
+  },
+  {
+    "id": "injection_006",
+    "name": "Reforço de Regeneração",
+    "price_koen": 90720,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "injection_006.png",
+    "category": "injection"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "food_001",
+    "name": "Biscoito Duro Compr...",
+    "price_koen": 324,
+    "durability": "-",
+    "image": "food_001.png",
+    "category": "food"
+  },
+  {
+    "id": "food_002",
+    "name": "Salgadinho Sabor P...",
+    "price_koen": 327,
+    "durability": "-",
+    "image": "food_002.png",
+    "category": "food"
+  },
+  {
+    "id": "food_003",
+    "name": "Salgadinho Clássico",
+    "price_koen": 348,
+    "durability": "-",
+    "image": "food_003.png",
+    "category": "food"
+  },
+  {
+    "id": "food_004",
+    "name": "Carne Enlatada",
+    "price_koen": 798,
+    "durability": "-",
+    "image": "food_004.png",
+    "category": "food"
+  },
+  {
+    "id": "food_005",
+    "name": "Molho de Feijão Doc...",
+    "price_koen": 770,
+    "durability": "-",
+    "image": "food_005.png",
+    "category": "food"
+  },
+  {
+    "id": "food_006",
+    "name": "Feijão Cozido Hongy...",
+    "price_koen": 880,
+    "durability": "-",
+    "image": "food_006.png",
+    "category": "food"
+  },
+  {
+    "id": "food_007",
+    "name": "Peixe Assado Com T...",
+    "price_koen": 960,
+    "durability": "-",
+    "image": "food_007.png",
+    "category": "food"
+  },
+  {
+    "id": "food_008",
+    "name": "Pescado Enlatado",
+    "price_koen": 1080,
+    "durability": "-",
+    "image": "food_008.png",
+    "category": "food"
+  },
+  {
+    "id": "food_009",
+    "name": "Leite Condensado C...",
+    "price_koen": 1071,
+    "durability": "-",
+    "image": "food_009.png",
+    "category": "food"
+  },
+  {
+    "id": "food_010",
+    "name": "Ração de Campo de ...",
+    "price_koen": 1100,
+    "durability": "-",
+    "image": "food_010.png",
+    "category": "food"
+  },
+  {
+    "id": "food_011",
+    "name": "Açúcar Hongyang",
+    "price_koen": 1276,
+    "durability": "-",
+    "image": "food_011.png",
+    "category": "food"
+  },
+  {
+    "id": "food_012",
+    "name": "Ensopado Enlatado",
+    "price_koen": 1320,
+    "durability": "-",
+    "image": "food_012.png",
+    "category": "food"
+  },
+  {
+    "id": "food_013",
+    "name": "Floco de Milho",
+    "price_koen": 1356,
+    "durability": "-",
+    "image": "food_013.png",
+    "category": "food"
+  },
+  {
+    "id": "food_014",
+    "name": "Ração Especial de Ca...",
+    "price_koen": 1469,
+    "durability": "-",
+    "image": "food_014.png",
+    "category": "food"
+  },
+  {
+    "id": "food_015",
+    "name": "Mel Nightingale",
+    "price_koen": 1612,
+    "durability": "-",
+    "image": "food_015.png",
+    "category": "food"
+  },
+  {
+    "id": "food_016",
+    "name": "Arenque Salgado Enl...",
+    "price_koen": 1512,
+    "durability": "-",
+    "image": "food_016.png",
+    "category": "food"
+  },
+  {
+    "id": "food_017",
+    "name": "Bolacha",
+    "price_koen": 933,
+    "durability": "-",
+    "image": "food_017.png",
+    "category": "food"
+  },
+  {
+    "id": "food_018",
+    "name": "Barra Energética Ori...",
+    "price_koen": 2520,
+    "durability": "-",
+    "image": "food_018.png",
+    "category": "food"
+  },
+  {
+    "id": "food_019",
+    "name": "Barra Energética Ult...",
+    "price_koen": 2806,
+    "durability": "-",
+    "image": "food_019.png",
+    "category": "food"
+  }
+]

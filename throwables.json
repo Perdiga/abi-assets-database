@@ -1,0 +1,74 @@
+[
+  {
+    "id": "throwable_001",
+    "name": "Granada de Atordoamento",
+    "price_koen": 9480,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_001.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_002",
+    "name": "Coquetel Molotov",
+    "price_koen": 8580,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_002.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_003",
+    "name": "Granada de fumaça",
+    "price_koen": 11440,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_003.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_004",
+    "name": "Granada de Flash M84",
+    "price_koen": 8880,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_004.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_005",
+    "name": "Gás Lacrimogêneo",
+    "price_koen": 11360,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_005.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_006",
+    "name": "Granada de Fragmentação",
+    "price_koen": 29733,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_006.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_007",
+    "name": "Granada Ofensiva",
+    "price_koen": 29737,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_007.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_008",
+    "name": "Granada de Fragmentação",
+    "price_koen": 26037,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_008.png",
+    "category": "throwable"
+  },
+  {
+    "id": "throwable_009",
+    "name": "Granada de Choque",
+    "price_koen": 22100,
+    "can_trade_with_contact": "Pode ser trocado com Contato",
+    "image": "throwable_009.png",
+    "category": "throwable"
+  }
+]

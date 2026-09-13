@@ -1,0 +1,42 @@
+[
+  {
+    "id": "headset_001",
+    "name": "Fone de Ouvido Tático",
+    "price_koen": 4600,
+    "can_trade_with_contact": "Não",
+    "image": "headset_001.png",
+    "category": "headset"
+  },
+  {
+    "id": "headset_002",
+    "name": "Fone de Ouvido Tático",
+    "price_koen": 21038,
+    "can_trade_with_contact": "Sim",
+    "image": "headset_002.png",
+    "category": "headset"
+  },
+  {
+    "id": "headset_003",
+    "name": "Fone de Ouvido Tático",
+    "price_koen": 39783,
+    "can_trade_with_contact": "Sim",
+    "image": "headset_003.png",
+    "category": "headset"
+  },
+  {
+    "id": "headset_004",
+    "name": "Fone de Ouvido Tático",
+    "price_koen": 51992,
+    "can_trade_with_contact": "Sim",
+    "image": "headset_004.png",
+    "category": "headset"
+  },
+  {
+    "id": "headset_005",
+    "name": "Auricular Tático GS2",
+    "price_koen": 76800,
+    "can_trade_with_contact": "Sim",
+    "image": "headset_005.png",
+    "category": "headset"
+  }
+]
