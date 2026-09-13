@@ -5,6 +5,7 @@
 This repository contains the current canonical Arena Breakout item dataset.
 
 Directory structure
+```
 .
 ├── helmets.json
 ├── helmet_shields.json
@@ -32,6 +33,7 @@ Directory structure
     ├── food/
     ├── medical/
     └── throwable/
+```
 
 ## General JSON rules
 
