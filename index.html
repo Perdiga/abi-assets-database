@@ -1,343 +1,426 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ABI Assets Database</title>
-<style>
-  :root {
-    --bg: #0b0f14;
-    --panel: #121821;
-    --panel2: #18212c;
-    --border: #283442;
-    --text: #e8edf2;
-    --muted: #8d9aaa;
-    --accent: #5ca9ff;
-    --danger: #ff6b6b;
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  }
-  header {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: rgba(11,15,20,.94);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--border);
-    padding: 18px 24px;
-  }
-  .header-inner {
-    max-width: 1600px;
-    margin: auto;
-    display: flex;
-    gap: 18px;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  h1 { margin: 0; font-size: 22px; }
-  .subtitle { color: var(--muted); font-size: 13px; }
-  .controls {
-    max-width: 1600px;
-    margin: 20px auto 0;
-    padding: 0 24px;
-    display: grid;
-    grid-template-columns: minmax(250px, 1fr) 220px 180px;
-    gap: 10px;
-  }
-  input, select {
-    width: 100%;
-    background: var(--panel);
-    color: var(--text);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 11px 12px;
-    outline: none;
-  }
-  input:focus, select:focus { border-color: var(--accent); }
-  main { max-width: 1600px; margin: 0 auto; padding: 0 24px 40px; }
-  .stats {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    margin: 18px 0;
-  }
-  .stat {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 9px 12px;
-    font-size: 13px;
-  }
-  .stat strong { color: var(--accent); }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-    gap: 14px;
-  }
-  .card {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    overflow: hidden;
-    transition: border-color .15s, transform .15s;
-  }
-  .card:hover { border-color: #405468; transform: translateY(-1px); }
-  .image {
-    height: 150px;
-    background: #080b0f;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-bottom: 1px solid var(--border);
-    position: relative;
-  }
-  .image img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-  }
-  .no-image {
-    color: var(--muted);
-    font-size: 12px;
-  }
-  .content { padding: 14px; }
-  .top {
-    display: flex;
-    justify-content: space-between;
-    gap: 10px;
-    align-items: flex-start;
-  }
-  .name { font-weight: 700; line-height: 1.25; }
-  .id {
-    color: var(--muted);
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    font-size: 11px;
-    margin-top: 4px;
-    word-break: break-all;
-  }
-  .type {
-    flex: 0 0 auto;
-    background: var(--panel2);
-    border: 1px solid var(--border);
-    color: var(--accent);
-    padding: 4px 7px;
-    border-radius: 6px;
-    font-size: 11px;
-  }
-  dl {
-    display: grid;
-    grid-template-columns: 1fr 1.35fr;
-    gap: 7px 10px;
-    margin: 14px 0 0;
-    font-size: 12px;
-  }
-  dt { color: var(--muted); }
-  dd {
-    margin: 0;
-    text-align: right;
-    overflow-wrap: anywhere;
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  }
-  .true { color: #7ee787; }
-  .false { color: #ff7b72; }
-  .null { color: #697586; }
-  .slots {
-    margin-top: 12px;
-    padding: 9px;
-    background: #0a0e13;
-    border: 1px solid var(--border);
-    border-radius: 7px;
-    overflow: auto;
-    font-size: 11px;
-    white-space: pre;
-  }
-  .error {
-    background: rgba(255,107,107,.08);
-    border: 1px solid rgba(255,107,107,.35);
-    color: #ffb4b4;
-    padding: 12px;
-    border-radius: 8px;
-    margin: 15px 0;
-  }
-  .loading {
-    color: var(--muted);
-    padding: 40px 0;
-    text-align: center;
-  }
-  @media (max-width: 850px) {
-    .controls { grid-template-columns: 1fr; }
-    main, .controls { padding-left: 14px; padding-right: 14px; }
-    header { padding: 14px; }
-  }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ABI Assets Database</title>
+  <style>
+    :root {
+      --bg: #0b0f14;
+      --panel: #121821;
+      --panel2: #18212c;
+      --border: #283442;
+      --text: #e8edf2;
+      --muted: #8d9aaa;
+      --accent: #5ca9ff;
+      --danger: #ff6b6b;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(11, 15, 20, .94);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 18px 24px;
+    }
+
+    .header-inner {
+      max-width: 1600px;
+      margin: auto;
+      display: flex;
+      gap: 18px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 22px;
+    }
+
+    .subtitle {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .controls {
+      max-width: 1600px;
+      margin: 20px auto 0;
+      padding: 0 24px;
+      display: grid;
+      grid-template-columns: minmax(250px, 1fr) 220px 180px;
+      gap: 10px;
+    }
+
+    input,
+    select {
+      width: 100%;
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 11px 12px;
+      outline: none;
+    }
+
+    input:focus,
+    select:focus {
+      border-color: var(--accent);
+    }
+
+    main {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 24px 40px;
+    }
+
+    .stats {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 18px 0;
+    }
+
+    .stat {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 9px 12px;
+      font-size: 13px;
+    }
+
+    .stat strong {
+      color: var(--accent);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 14px;
+    }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: border-color .15s, transform .15s;
+    }
+
+    .card:hover {
+      border-color: #405468;
+      transform: translateY(-1px);
+    }
+
+    .image {
+      height: 150px;
+      background: #080b0f;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-bottom: 1px solid var(--border);
+      position: relative;
+    }
+
+    .image img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+
+    .no-image {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .content {
+      padding: 14px;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: flex-start;
+    }
+
+    .name {
+      font-weight: 700;
+      line-height: 1.25;
+    }
+
+    .id {
+      color: var(--muted);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 11px;
+      margin-top: 4px;
+      word-break: break-all;
+    }
+
+    .type {
+      flex: 0 0 auto;
+      background: var(--panel2);
+      border: 1px solid var(--border);
+      color: var(--accent);
+      padding: 4px 7px;
+      border-radius: 6px;
+      font-size: 11px;
+    }
+
+    dl {
+      display: grid;
+      grid-template-columns: 1fr 1.35fr;
+      gap: 7px 10px;
+      margin: 14px 0 0;
+      font-size: 12px;
+    }
+
+    dt {
+      color: var(--muted);
+    }
+
+    dd {
+      margin: 0;
+      text-align: right;
+      overflow-wrap: anywhere;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    }
+
+    .true {
+      color: #7ee787;
+    }
+
+    .false {
+      color: #ff7b72;
+    }
+
+    .null {
+      color: #697586;
+    }
+
+    .slots {
+      margin-top: 12px;
+      padding: 9px;
+      background: #0a0e13;
+      border: 1px solid var(--border);
+      border-radius: 7px;
+      overflow: auto;
+      font-size: 11px;
+      white-space: pre;
+    }
+
+    .error {
+      background: rgba(255, 107, 107, .08);
+      border: 1px solid rgba(255, 107, 107, .35);
+      color: #ffb4b4;
+      padding: 12px;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+
+    .loading {
+      color: var(--muted);
+      padding: 40px 0;
+      text-align: center;
+    }
+
+    @media (max-width: 850px) {
+      .controls {
+        grid-template-columns: 1fr;
+      }
+
+      main,
+      .controls {
+        padding-left: 14px;
+        padding-right: 14px;
+      }
+
+      header {
+        padding: 14px;
+      }
+    }
+  </style>
 </head>
+
 <body>
 
-<header>
-  <div class="header-inner">
-    <div>
-      <h1>Arena Breakout Infinite — Assets Database</h1>
-      <div class="subtitle">Visualização dos itens e propriedades do banco JSON</div>
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1>Arena Breakout Infinite — Assets Database</h1>
+        <div class="subtitle">Visualização dos itens e propriedades do banco JSON</div>
+      </div>
     </div>
-  </div>
-</header>
+  </header>
 
-<div class="controls">
-  <input id="search" type="search" placeholder="Pesquisar por ID, nome, tipo ou propriedade...">
-  <select id="typeFilter">
-    <option value="">Todos os tipos</option>
-  </select>
-  <select id="sort">
-    <option value="id">Ordenar por ID</option>
-    <option value="name">Ordenar por nome</option>
-    <option value="priceAsc">Preço crescente</option>
-    <option value="priceDesc">Preço decrescente</option>
-  </select>
-</div>
-
-<main>
-  <div class="stats">
-    <div class="stat">Itens: <strong id="count">0</strong></div>
-    <div class="stat">Tipos: <strong id="types">0</strong></div>
-    <div class="stat">Preço total: <strong id="totalPrice">0</strong></div>
+  <div class="controls">
+    <input id="search" type="search" placeholder="Pesquisar por ID, nome, tipo ou propriedade...">
+    <select id="typeFilter">
+      <option value="">Todos os tipos</option>
+    </select>
+    <select id="sort">
+      <option value="id">Ordenar por ID</option>
+      <option value="name">Ordenar por nome</option>
+      <option value="priceAsc">Preço crescente</option>
+      <option value="priceDesc">Preço decrescente</option>
+    </select>
   </div>
 
-  <div id="error"></div>
-  <div id="loading" class="loading">Carregando itens...</div>
-  <section id="grid" class="grid"></section>
-</main>
+  <main>
+    <div class="stats">
+      <div class="stat">Itens: <strong id="count">0</strong></div>
+      <div class="stat">Tipos: <strong id="types">0</strong></div>
+      <div class="stat">Preço total: <strong id="totalPrice">0</strong></div>
+    </div>
 
-<script>
-const JSON_FILES = [
-  "ballistic_vests.json",
-  "chest_rigs.json",
-  "food.json",
-  "headsets.json",
-  "helmet_shields.json",
-  "helmets.json",
-  "injections.json",
-  "masks.json",
-  "medical.json",
-  "throwables.json"
-];
+    <div id="error"></div>
+    <div id="loading" class="loading">Carregando itens...</div>
+    <section id="grid" class="grid"></section>
+  </main>
 
-const PROPERTIES = [
-  ["price", "Preço"],
-  ["asset_path", "Asset"],
-  ["width_slots", "Width"],
-  ["height_slots", "Height"],
-  ["width_slots_open", "Width Open"],
-  ["height_slots_open", "Height Open"],
-  ["headset_compatible", "Headset"],
-  ["mask_compatible", "Mask"],
-  ["shield_compatible", "Shield"]
-];
+  <script>
+    const JSON_FILES = [
+      "ballistic_vests.json",
+      "ballistic_rigs.json",
+      "chest_rigs.json",
+      "food.json",
+      "headsets.json",
+      "helmet_shields.json",
+      "helmets.json",
+      "injections.json",
+      "masks.json",
+      "medical.json",
+      "throwables.json",
+      "keys.json",
+      "varieties.json",
+    ];
 
-let allItems = [];
+    const PROPERTIES = [
+      ["price", "Preço"],
+      ["asset_path", "Asset"],
+      ["width_slots", "Width"],
+      ["height_slots", "Height"],
+      ["width_slots_open", "Width Open"],
+      ["height_slots_open", "Height Open"],
+      ["headset_compatible", "Headset"],
+      ["mask_compatible", "Mask"],
+      ["shield_compatible", "Shield"]
+    ];
 
-async function loadItems() {
-  const results = await Promise.all(
-    JSON_FILES.map(async file => {
-      const response = await fetch(file, { cache: "no-store" });
-      if (!response.ok) throw new Error(`${file}: HTTP ${response.status}`);
-      const data = await response.json();
-      return Array.isArray(data) ? data : [];
-    })
-  );
+    let allItems = [];
 
-  allItems = results.flat();
-  populateTypes();
-  render();
-  document.getElementById("loading").style.display = "none";
-}
+    async function loadItems() {
+      const results = await Promise.all(
+        JSON_FILES.map(async file => {
+          const response = await fetch(file, { cache: "no-store" });
+          if (!response.ok) throw new Error(`${file}: HTTP ${response.status}`);
+          const data = await response.json();
+          return Array.isArray(data) ? data : [];
+        })
+      );
 
-function populateTypes() {
-  const select = document.getElementById("typeFilter");
-  const types = [...new Set(allItems.map(x => x.type).filter(Boolean))].sort();
-  select.innerHTML = '<option value="">Todos os tipos</option>';
-  types.forEach(type => {
-    const option = document.createElement("option");
-    option.value = type;
-    option.textContent = type;
-    select.appendChild(option);
-  });
-  document.getElementById("types").textContent = types.length;
-}
+      allItems = results.flat();
+      populateTypes();
+      render();
+      document.getElementById("loading").style.display = "none";
+    }
 
-function formatValue(value, key) {
-  if (value === null || value === undefined) {
-    return '<span class="null">null</span>';
-  }
-  if (typeof value === "boolean") {
-    return `<span class="${value ? "true" : "false"}">${value}</span>`;
-  }
-  if (key === "price") {
-    return Number(value).toLocaleString("pt-BR");
-  }
-  return escapeHtml(String(value));
-}
+    function populateTypes() {
+      const select = document.getElementById("typeFilter");
+      const types = [...new Set(allItems.map(x => x.type).filter(Boolean))].sort();
+      select.innerHTML = '<option value="">Todos os tipos</option>';
+      types.forEach(type => {
+        const option = document.createElement("option");
+        option.value = type;
+        option.textContent = type;
+        select.appendChild(option);
+      });
+      document.getElementById("types").textContent = types.length;
+    }
 
-function escapeHtml(value) {
-  return value.replace(/[&<>"']/g, c => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;",
-    '"': "&quot;", "'": "&#039;"
-  }[c]));
-}
+    function formatValue(value, key) {
+      if (value === null || value === undefined) {
+        return '<span class="null">null</span>';
+      }
+      if (typeof value === "boolean") {
+        return `<span class="${value ? "true" : "false"}">${value}</span>`;
+      }
+      if (key === "price") {
+        return Number(value).toLocaleString("pt-BR");
+      }
+      return escapeHtml(String(value));
+    }
 
-function matchesSearch(item, search) {
-  if (!search) return true;
-  const haystack = Object.entries(item)
-    .map(([key, value]) => `${key} ${value}`)
-    .join(" ")
-    .toLowerCase();
-  return haystack.includes(search.toLowerCase());
-}
+    function escapeHtml(value) {
+      return value.replace(/[&<>"']/g, c => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;",
+        '"': "&quot;", "'": "&#039;"
+      }[c]));
+    }
 
-function render() {
-  const search = document.getElementById("search").value.trim();
-  const type = document.getElementById("typeFilter").value;
-  const sort = document.getElementById("sort").value;
+    function matchesSearch(item, search) {
+      if (!search) return true;
+      const haystack = Object.entries(item)
+        .map(([key, value]) => `${key} ${value}`)
+        .join(" ")
+        .toLowerCase();
+      return haystack.includes(search.toLowerCase());
+    }
 
-  let items = allItems.filter(item =>
-    (!type || item.type === type) && matchesSearch(item, search)
-  );
+    function render() {
+      const search = document.getElementById("search").value.trim();
+      const type = document.getElementById("typeFilter").value;
+      const sort = document.getElementById("sort").value;
 
-  items.sort((a, b) => {
-    if (sort === "name") return String(a.name).localeCompare(String(b.name), "pt-BR");
-    if (sort === "priceAsc") return (a.price ?? Infinity) - (b.price ?? Infinity);
-    if (sort === "priceDesc") return (b.price ?? -Infinity) - (a.price ?? -Infinity);
-    return String(a.id).localeCompare(String(b.id), undefined, { numeric: true });
-  });
+      let items = allItems.filter(item =>
+        (!type || item.type === type) && matchesSearch(item, search)
+      );
 
-  document.getElementById("count").textContent = items.length;
-  document.getElementById("totalPrice").textContent =
-    items.reduce((sum, x) => sum + (typeof x.price === "number" ? x.price : 0), 0)
-      .toLocaleString("pt-BR");
+      items.sort((a, b) => {
+        if (sort === "name") return String(a.name).localeCompare(String(b.name), "pt-BR");
+        if (sort === "priceAsc") return (a.price ?? Infinity) - (b.price ?? Infinity);
+        if (sort === "priceDesc") return (b.price ?? -Infinity) - (a.price ?? -Infinity);
+        return String(a.id).localeCompare(String(b.id), undefined, { numeric: true });
+      });
 
-  const grid = document.getElementById("grid");
+      document.getElementById("count").textContent = items.length;
+      document.getElementById("totalPrice").textContent =
+        items.reduce((sum, x) => sum + (typeof x.price === "number" ? x.price : 0), 0)
+          .toLocaleString("pt-BR");
 
-  grid.innerHTML = items.map(item => {
-    const asset = item.asset_path || "";
-    const image = asset
-      ? `<img src="${escapeHtml(asset)}" alt="${escapeHtml(item.name || item.id)}"
+      const grid = document.getElementById("grid");
+
+      grid.innerHTML = items.map(item => {
+        const asset = item.asset_path || "";
+        const image = asset
+          ? `<img src="${escapeHtml(asset)}" alt="${escapeHtml(item.name || item.id)}"
            loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
          <span class="no-image" style="display:none">Imagem não encontrada</span>`
-      : `<span class="no-image">Sem imagem</span>`;
+          : `<span class="no-image">Sem imagem</span>`;
 
-    const props = PROPERTIES.map(([key, label]) =>
-      `<dt>${label}</dt><dd>${formatValue(item[key], key)}</dd>`
-    ).join("");
+        const props = PROPERTIES.map(([key, label]) =>
+          `<dt>${label}</dt><dd>${formatValue(item[key], key)}</dd>`
+        ).join("");
 
-    const slots = item.slots !== null && item.slots !== undefined
-      ? `<div class="slots"><strong>Slots:</strong>\n${escapeHtml(String(item.slots))}</div>`
-      : "";
+        const slots = item.slots !== null && item.slots !== undefined
+          ? `<div class="slots"><strong>Slots:</strong>\n${escapeHtml(String(item.slots))}</div>`
+          : "";
 
-    return `
+        return `
       <article class="card">
         <div class="image">${image}</div>
         <div class="content">
@@ -355,21 +438,22 @@ function render() {
         </div>
       </article>
     `;
-  }).join("");
-}
+      }).join("");
+    }
 
-["search", "typeFilter", "sort"].forEach(id =>
-  document.getElementById(id).addEventListener("input", render)
-);
+    ["search", "typeFilter", "sort"].forEach(id =>
+      document.getElementById(id).addEventListener("input", render)
+    );
 
-loadItems().catch(error => {
-  document.getElementById("loading").style.display = "none";
-  document.getElementById("error").innerHTML =
-    `<div class="error"><strong>Erro ao carregar os JSONs.</strong><br>
+    loadItems().catch(error => {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").innerHTML =
+        `<div class="error"><strong>Erro ao carregar os JSONs.</strong><br>
      ${escapeHtml(error.message)}<br><br>
      Confirme que este <code>index.html</code> está na raiz do GitHub Pages,
      junto dos arquivos JSON.</div>`;
-});
-</script>
+    });
+  </script>
 </body>
+
 </html>
