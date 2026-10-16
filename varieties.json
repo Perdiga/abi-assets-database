@@ -13,5 +13,20 @@
     "headset_compatible": null,
     "mask_compatible": null,
     "shield_compatible": null
+  },
+  {
+    "id": "varieties_002",
+    "type": "varieties",
+    "name": "Isqueiro",
+    "price": 2640,
+    "asset_path": "assets/varieties/varieties_002.png",
+    "width_slots": 1,
+    "height_slots": 1,
+    "width_slots_open": null,
+    "height_slots_open": null,
+    "slots": null,
+    "headset_compatible": null,
+    "mask_compatible": null,
+    "shield_compatible": null
   }
 ]
