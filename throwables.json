@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "throwable_009",
@@ -132,6 +140,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   }
 ]

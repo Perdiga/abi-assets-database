@@ -12,7 +12,8 @@
     "slots": "[[1,1],[1,1],[1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_002",
@@ -27,7 +28,8 @@
     "slots": "[[1,1,1],[1,1,1],[1,1,1],[1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_003",
@@ -42,7 +44,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_004",
@@ -57,7 +60,8 @@
     "slots": "[[1,1],[1,1],[1,1],[1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_005",
@@ -72,7 +76,8 @@
     "slots": "[[1,1,1],[1,1,1],[1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_006",
@@ -87,7 +92,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[2,2,2,2],[2,2,2,2],[2,2,2,2]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_007",
@@ -102,7 +108,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_008",
@@ -117,7 +124,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_009",
@@ -132,7 +140,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_010",
@@ -147,7 +156,8 @@
     "slots": "[[1,1,1,1,1],[2,2,2,2,2],[2,2,2,2,2],[2,2,2,2,2],[2,2,2,2,2]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_011",
@@ -162,7 +172,8 @@
     "slots": "[[null,1,1,1,null],[null,2,2,2,null],[null,2,2,2,null],[null,2,2,2,null],[3,2,2,2,4],[3,2,2,2,4],[3,2,2,2,4],[3,2,2,2,4]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_012",
@@ -177,7 +188,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_013",
@@ -192,7 +204,8 @@
     "slots": "[[1,1,1,1],[2,2,2,2],[2,2,2,2],[2,2,2,2],[2,2,2,2],[2,2,2,2],[2,2,2,2]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_014",
@@ -207,7 +220,8 @@
     "slots": "[[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_015",
@@ -222,7 +236,8 @@
     "slots": "[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_016",
@@ -237,7 +252,8 @@
     "slots": "[[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[2,3,3,3,2],[2,3,3,3,2]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_017",
@@ -252,7 +268,8 @@
     "slots": "[[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[2,3,3,3,4],[2,3,3,3,4]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "backpack_018",
@@ -267,6 +284,7 @@
     "slots": "[[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1],[1,1,1,1,1]]",
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   }
 ]

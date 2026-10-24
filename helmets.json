@@ -451,7 +451,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_028",
@@ -467,7 +468,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_029",
@@ -483,7 +485,8 @@
     "headset_compatible": true,
     "mask_compatible": true,
     "shield_compatible": false,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_030",
@@ -503,7 +506,8 @@
       "helmet_shield_003",
       "helmet_shield_001",
       "helmet_shield_005"
-    ]
+    ],
+    "rarity": "Common"
   },
   {
     "id": "helmet_031",
@@ -519,7 +523,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_032",
@@ -535,7 +540,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_033",
@@ -551,7 +557,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_034",
@@ -567,7 +574,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_035",
@@ -583,7 +591,8 @@
     "headset_compatible": false,
     "mask_compatible": false,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_036",
@@ -603,7 +612,8 @@
       "helmet_shield_003",
       "helmet_shield_001",
       "helmet_shield_005"
-    ]
+    ],
+    "rarity": "Common"
   },
   {
     "id": "helmet_037",
@@ -619,7 +629,8 @@
     "headset_compatible": false,
     "mask_compatible": false,
     "shield_compatible": false,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_038",
@@ -635,7 +646,8 @@
     "headset_compatible": false,
     "mask_compatible": true,
     "shield_compatible": true,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   },
   {
     "id": "helmet_039",
@@ -654,7 +666,8 @@
     "shields_compatible": [
       "helmet_shield_009",
       "helmet_shield_011"
-    ]
+    ],
+    "rarity": "Common"
   },
   {
     "id": "helmet_040",
@@ -670,6 +683,7 @@
     "headset_compatible": false,
     "mask_compatible": false,
     "shield_compatible": false,
-    "shields_compatible": []
+    "shields_compatible": [],
+    "rarity": "Common"
   }
 ]

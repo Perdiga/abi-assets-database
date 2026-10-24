@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_009",
@@ -132,7 +140,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_010",
@@ -147,7 +156,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_011",
@@ -162,7 +172,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "helmet_shield_012",
@@ -177,6 +188,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   }
 ]

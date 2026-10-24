@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_009",
@@ -132,7 +140,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_010",
@@ -147,7 +156,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_011",
@@ -162,7 +172,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_012",
@@ -177,7 +188,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_013",
@@ -192,7 +204,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_014",
@@ -207,7 +220,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_015",
@@ -222,7 +236,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_016",
@@ -237,7 +252,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_017",
@@ -252,7 +268,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_018",
@@ -267,7 +284,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_019",
@@ -282,7 +300,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_020",
@@ -297,7 +316,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_021",
@@ -312,7 +332,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_022",
@@ -327,7 +348,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_023",
@@ -342,7 +364,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_024",
@@ -357,7 +380,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_025",
@@ -372,7 +396,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_026",
@@ -387,7 +412,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_027",
@@ -402,7 +428,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_028",
@@ -417,7 +444,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_029",
@@ -432,7 +460,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   },
   {
     "id": "food_030",
@@ -447,6 +476,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "Common"
   }
 ]

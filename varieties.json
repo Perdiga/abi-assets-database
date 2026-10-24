@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "inflamable_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "inflamable_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "inflamable_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "inflamable_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "inflamable_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "inflamable_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "inflamable_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_009",
@@ -132,7 +140,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_010",
@@ -147,7 +156,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_011",
@@ -162,7 +172,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_012",
@@ -177,7 +188,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_013",
@@ -192,7 +204,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "inflamable_014",
@@ -207,7 +220,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "inflamable_015",
@@ -222,7 +236,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "inflamable_016",
@@ -237,7 +252,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "inflamable_017",
@@ -252,7 +268,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "construction_materials_001",
@@ -267,7 +284,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_002",
@@ -282,7 +300,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_003",
@@ -297,7 +316,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_004",
@@ -312,7 +332,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_005",
@@ -327,7 +348,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_006",
@@ -342,7 +364,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_007",
@@ -357,7 +380,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_008",
@@ -372,7 +396,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_009",
@@ -387,7 +412,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_010",
@@ -402,12 +428,13 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_011",
     "type": "varieties",
-    "name": "Lingote de Latão",
+    "name": "Cano de Latão",
     "price": 5975,
     "asset_path": "assets/varieties/construction_materials/construction_materials_011.png",
     "width_slots": 1,
@@ -417,7 +444,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "construction_materials_012",
@@ -432,7 +460,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "construction_materials_013",
@@ -447,7 +476,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "construction_materials_014",
@@ -462,7 +492,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "construction_materials_015",
@@ -477,7 +508,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "construction_materials_016",
@@ -492,7 +524,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "construction_materials_017",
@@ -507,7 +540,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "construction_materials_018",
@@ -522,7 +556,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "construction_materials_019",
@@ -537,7 +572,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "construction_materials_020",
@@ -552,7 +588,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "construction_materials_021",
@@ -567,7 +604,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "construction_materials_022",
@@ -582,7 +620,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "construction_materials_023",
@@ -597,7 +636,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "construction_materials_024",
@@ -612,7 +652,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "computer_parts_001",
@@ -627,7 +668,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "computer_parts_002",
@@ -642,7 +684,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "computer_parts_003",
@@ -657,7 +700,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_004",
@@ -672,7 +716,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_005",
@@ -687,7 +732,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_006",
@@ -702,7 +748,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_007",
@@ -717,7 +764,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_008",
@@ -732,7 +780,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_009",
@@ -747,7 +796,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_010",
@@ -762,7 +812,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_011",
@@ -777,7 +828,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_012",
@@ -792,7 +844,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "computer_parts_013",
@@ -807,7 +860,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_014",
@@ -822,7 +876,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_015",
@@ -837,7 +892,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_016",
@@ -852,7 +908,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_017",
@@ -867,7 +924,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_018",
@@ -882,7 +940,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_019",
@@ -897,7 +956,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_020",
@@ -912,7 +972,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_021",
@@ -927,7 +988,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "computer_parts_022",
@@ -942,7 +1004,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "computer_parts_023",
@@ -957,7 +1020,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "computer_parts_024",
@@ -972,7 +1036,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "computer_parts_025",
@@ -987,7 +1052,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "energy_001",
@@ -1002,7 +1068,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "energy_002",
@@ -1017,7 +1084,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "energy_003",
@@ -1032,7 +1100,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "energy_004",
@@ -1047,7 +1116,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "energy_005",
@@ -1062,7 +1132,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "energy_006",
@@ -1077,7 +1148,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "energy_007",
@@ -1092,7 +1164,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "energy_008",
@@ -1107,7 +1180,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "energy_009",
@@ -1122,7 +1196,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "energy_010",
@@ -1137,7 +1212,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "energy_011",
@@ -1152,12 +1228,13 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "tools_001",
     "type": "varieties",
-    "name": "Abridor de GArrafas",
+    "name": "Abridor de Garrafas",
     "price": 1485,
     "asset_path": "assets/varieties/tools/tools_001.png",
     "width_slots": 1,
@@ -1167,7 +1244,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_002",
@@ -1182,7 +1260,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_003",
@@ -1197,7 +1276,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_004",
@@ -1212,7 +1292,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_005",
@@ -1227,7 +1308,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_006",
@@ -1242,7 +1324,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_007",
@@ -1257,7 +1340,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_008",
@@ -1272,7 +1356,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_009",
@@ -1287,7 +1372,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_010",
@@ -1302,7 +1388,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "tools_011",
@@ -1317,7 +1404,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_012",
@@ -1332,7 +1420,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_013",
@@ -1347,7 +1436,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_014",
@@ -1362,7 +1452,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_015",
@@ -1377,7 +1468,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_016",
@@ -1392,7 +1484,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_017",
@@ -1407,7 +1500,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_018",
@@ -1422,7 +1516,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   },
   {
     "id": "tools_019",
@@ -1437,7 +1532,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_020",
@@ -1452,7 +1548,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_021",
@@ -1467,7 +1564,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_022",
@@ -1482,7 +1580,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_023",
@@ -1497,7 +1596,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_024",
@@ -1512,7 +1612,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_025",
@@ -1527,7 +1628,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_026",
@@ -1542,7 +1644,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "epic"
   },
   {
     "id": "tools_027",
@@ -1557,7 +1660,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "tools_028",
@@ -1572,7 +1676,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "tools_029",
@@ -1587,7 +1692,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   },
   {
     "id": "tools_030",
@@ -1602,6 +1708,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "legendary"
   }
 ]

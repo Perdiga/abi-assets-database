@@ -12,6 +12,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "rare"
   }
 ]

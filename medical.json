@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_009",
@@ -132,7 +140,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_010",
@@ -147,7 +156,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_011",
@@ -162,7 +172,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_012",
@@ -177,7 +188,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_013",
@@ -192,7 +204,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_014",
@@ -207,7 +220,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_015",
@@ -222,7 +236,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_016",
@@ -237,7 +252,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_017",
@@ -252,7 +268,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_018",
@@ -267,7 +284,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_019",
@@ -282,7 +300,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_020",
@@ -297,7 +316,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_021",
@@ -312,7 +332,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_022",
@@ -327,7 +348,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_023",
@@ -342,7 +364,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_024",
@@ -357,7 +380,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_025",
@@ -372,7 +396,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   },
   {
     "id": "medical_026",
@@ -387,6 +412,7 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": null
+    "shield_compatible": null,
+    "rarity": "common"
   }
 ]
