@@ -12,7 +12,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_002",
@@ -27,7 +28,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_003",
@@ -42,7 +44,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_004",
@@ -57,7 +60,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_005",
@@ -72,7 +76,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_006",
@@ -87,7 +92,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_007",
@@ -102,7 +108,8 @@
     "slots": null,
     "headset_compatible": null,
     "mask_compatible": null,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_008",
@@ -117,7 +124,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_009",
@@ -132,7 +140,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_010",
@@ -147,7 +156,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_011",
@@ -162,7 +172,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_012",
@@ -177,7 +188,11 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001"
+    ]
   },
   {
     "id": "helmet_013",
@@ -192,7 +207,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_014",
@@ -207,7 +223,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_015",
@@ -222,7 +239,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_016",
@@ -237,7 +255,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": false,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_017",
@@ -252,7 +271,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_018",
@@ -267,7 +287,11 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001"
+    ]
   },
   {
     "id": "helmet_019",
@@ -282,7 +306,11 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001"
+    ]
   },
   {
     "id": "helmet_020",
@@ -297,7 +325,11 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001"
+    ]
   },
   {
     "id": "helmet_021",
@@ -312,7 +344,8 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": false,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_022",
@@ -327,7 +360,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_023",
@@ -342,7 +376,12 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001",
+      "helmet_shield_005"
+    ]
   },
   {
     "id": "helmet_024",
@@ -357,7 +396,12 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001",
+      "helmet_shield_005"
+    ]
   },
   {
     "id": "helmet_025",
@@ -372,7 +416,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": false,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_026",
@@ -387,7 +432,10 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_008"
+    ]
   },
   {
     "id": "helmet_027",
@@ -402,7 +450,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_028",
@@ -417,7 +466,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_029",
@@ -432,7 +482,8 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_030",
@@ -447,7 +498,12 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001",
+      "helmet_shield_005"
+    ]
   },
   {
     "id": "helmet_031",
@@ -462,7 +518,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_032",
@@ -477,7 +534,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_033",
@@ -492,7 +550,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_034",
@@ -507,7 +566,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_035",
@@ -522,7 +582,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": false,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_036",
@@ -537,7 +598,12 @@
     "slots": null,
     "headset_compatible": true,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": [
+      "helmet_shield_003",
+      "helmet_shield_001",
+      "helmet_shield_005"
+    ]
   },
   {
     "id": "helmet_037",
@@ -552,7 +618,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": false,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   },
   {
     "id": "helmet_038",
@@ -567,7 +634,8 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": true
+    "shield_compatible": true,
+    "shields_compatible": []
   },
   {
     "id": "helmet_039",
@@ -582,7 +650,11 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": true,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": [
+      "helmet_shield_009",
+      "helmet_shield_011"
+    ]
   },
   {
     "id": "helmet_040",
@@ -597,6 +669,7 @@
     "slots": null,
     "headset_compatible": false,
     "mask_compatible": false,
-    "shield_compatible": false
+    "shield_compatible": false,
+    "shields_compatible": []
   }
 ]
